@@ -19,6 +19,9 @@ class FitnessApp extends StatelessWidget {
         theme: ThemeData(textTheme: GoogleFonts.robotoTextTheme()),
         onGenerateRoute: AppRouter.generateRoute,
         initialRoute: RouteNames.loginScreen,
+
+
+
       ),
     );
   }
