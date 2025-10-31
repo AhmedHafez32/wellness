@@ -34,8 +34,8 @@ The app provides structured workout plans, BMI tracking, and progress visualizat
 | User Questionnaire 1                                                | User Questionnaire 2                                                | User Questionnaire 3                                                |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|  
 | ![User Questionnaire 1](assets/screenshots/user_questionnaire1.jpg) | ![User Questionnaire 2](assets/screenshots/user_questionnaire3.jpg) | ![User Questionnaire 3](assets/screenshots/user_questionnaire4.jpg) |  
-
 ---
+
 ### **⚙️ Main Home Screens**
 | Main Home Screen                                       | 
 |--------------------------------------------------------| 
@@ -76,6 +76,7 @@ The app provides structured workout plans, BMI tracking, and progress visualizat
 |----------------------------------------------------------|  
 | ![Profile Screen](assets/screenshots/profileScreen1.jpg) | 
 
+---
 
 ## 🛠️ Tech Stack
 
