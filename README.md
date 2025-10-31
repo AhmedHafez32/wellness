@@ -26,7 +26,7 @@ The app provides structured workout plans, BMI tracking, and progress visualizat
 ### **🛠 Onboarding Screens**
 | Onboarding 1                                        | Onboarding 2                                        | 
 |-----------------------------------------------------|-----------------------------------------------------|  
-| ![Onboarding 1](assets/screenshots/onboarding1.jpg) | ![Onboarding 2](assets/screenshots/onboarding1.jpg) |
+| ![Onboarding 1](assets/screenshots/onboarding1.jpg) | ![Onboarding 2](assets/screenshots/onboarding2.jpg) |
 
 ---
 
@@ -88,7 +88,6 @@ The app provides structured workout plans, BMI tracking, and progress visualizat
 
 ---  
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -116,6 +115,9 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+---  
+
 ## 📁 Project Structure
 
 ```
@@ -303,6 +305,7 @@ lib/
 
 ```
 
+---  
 
 ## 🎯 Features in Detail
 
@@ -321,6 +324,7 @@ Calculates BMI automatically based on the user’s data and displays results.
 **Caching**
 Once workouts are fetched, they’re stored locally to avoid repeated network calls.
 
+---  
 
 ## 🔧 Configuration
 ```
@@ -354,6 +358,7 @@ dependencies:
   shared_preferences: ^2.5.3
   vector_graphics_compiler: 1.1.16
 ```
+---  
 
 ## 👨‍💻 Author
 
